@@ -10,8 +10,8 @@ It appears there's been some shady communication going on in our network...
 `author: cpan57`
 
 Attachments:
-- [chall.pcapng](Covert/files/chall.pcapng)
-- [keys.log](Covert/files/keys.log)
+- [chall.pcapng](files/chall.pcapng)
+- [keys.log](files/keys.log)
 
 
 ---
@@ -64,4 +64,4 @@ print(res)
 
 On running the script, we will obtain this flag `csawctf{licen$e_t0_tr@nsmit_c0vertTCP$$$}`
 
-[Here](Covert/files/decode.py) is the final script.
+[Here](files/decode.py) is the final script.
