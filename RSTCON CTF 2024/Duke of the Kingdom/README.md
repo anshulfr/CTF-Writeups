@@ -5,7 +5,7 @@
 
 ## **Problem Statement**
 
-I love this little guy so much. Check out [the program](https://metaproblems.com/b9717b5a41c0c046391251517982739a/Duke.class) I made for them.
+I love this little guy so much. Check out [the program](Files/Duke.class) I made for them.
 
 ---
 
