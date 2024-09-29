@@ -7,7 +7,7 @@
 
 Layers conceal the flag you seek, decode the PCB to speak.
 
- [Solve_it_if_you_can.zip](https://ctf.h7tex.com/files/7647cd87e1e58fea8f3f4b9f93046315/Solve_it_if_you_can.zip?token=eyJ1c2VyX2lkIjo1OTgsInRlYW1faWQiOjI4NSwiZmlsZV9pZCI6NDN9.ZvksIw.sbYcXMvKBkGqC9dPy4r0sZ-il_A)
+ [Solve_it_if_you_can.zip](Files/Solve_it_if_you_can.zip)
  
 ---
 
